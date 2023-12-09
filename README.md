@@ -27,7 +27,6 @@
 ### Let's Connect!
 
 - 📧 Email: omrraqeel@gmail.com
-- 🐦 Twitter: [Your Twitter Handle]
 - 💼 LinkedIn: https://www.linkedin.com/in/omer-aqeel-b0aa171a4/
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaborations in mind. Happy coding! 👨‍💻
