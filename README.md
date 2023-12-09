@@ -20,10 +20,6 @@
 - 🚀 Web Development
 - Data Science
 
-### GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmerAqeel&show_icons=true&count_private=true&hide=contribs)
-
 ### Let's Connect!
 
 - 📧 Email: omrraqeel@gmail.com
