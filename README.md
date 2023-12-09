@@ -2,7 +2,6 @@
 
 ### About Me
 
-- 🌍 Location: London, United Kingdom
 - 🚀 I'm a Software Engineer, passionate about machine learning, MERN stack developing.
 - 🎓 Student in Computer Science (Artificial Intelligence) from Brunel University London.
 - 💼 Currently on a placement year at Eli Lilly.
