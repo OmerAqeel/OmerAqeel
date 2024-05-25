@@ -2,9 +2,14 @@
 
 ### About Me
 
-- 🚀 I'm a Software Engineer, passionate about machine learning, MERN stack developing.
+- 🚀 I'm a Software Engineer, passionate about AI,machine learning and Deep Learning.
 - 🎓 Student in Computer Science (Artificial Intelligence) from Brunel University London.
 - 💼 Currently on a placement year at Eli Lilly.
+- Currenly working on projects that are AI-Powered
+      - Chatbots
+      - Prediction using ML
+      - Image classification
+- On a journey to master PyTorch - https://pytorch.org/
 
 ### Skills
 
