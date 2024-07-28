@@ -4,7 +4,7 @@
 
 - 🚀 I'm a Software Engineer, passionate about AI,machine learning and Deep Learning.
 - 🎓 Student in Computer Science (Artificial Intelligence) from Brunel University London.
-- 💼 1 year experience on a placement year at Eli Lilly as Software Engineer.
+- 💼 1 year experience on a placement year at **Eli Lilly and Company** as Software Engineer.
 - Currenly working on projects that are AI-Powered
       - Chatbots
       - Prediction using ML
