@@ -9,7 +9,6 @@
       - Chatbots
       - Prediction using ML
       - Image classification
-- On a journey to master PyTorch - https://pytorch.org/
 
 ### Skills
 
