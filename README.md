@@ -12,8 +12,8 @@
 
 ### Skills
 
-- 💻 Programming Languages: JavaScript, Java, Python
-- 🛠️ Technologies & Tools: React.js, MongoDB, Express.js, Node.js, Pandas, NumPy, Scikit Learn, AWS, Azure, GitHub
+- 💻 Programming Languages: Java, C++, JavaScript, Python
+- 🛠️ Technologies & Tools: React.js, MongoDB, Express.js, Node.js, Pandas, NumPy, Scikit Learn, AWS, Azure, Git, GitHub, FastAPI, SQL, Tensorflow
 - 📚 Always eager to learn and explore new technologies.
 
 ### Interests
