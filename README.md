@@ -5,10 +5,6 @@
 - 🚀 I'm a Software Engineer, experienced in developing full-stack applications and highly passionate about AI, machine learning and deep learning.
 - 🎓 Student in Computer Science (Artificial Intelligence) from Brunel University London.
 - 💼 1 year experience on a placement year at **Eli Lilly and Company** as Software Engineer and currently working in **Brunel Talent Marketplace** where exciting projects are helping me gain new skills, enhance existing skills and increase my experience in software development.
-- Currently working on projects that are AI-Powered
-      - Chatbots
-      - Prediction using ML
-      - Image classification
 
 ### Skills
 
